@@ -1,5 +1,3 @@
-# Awesome-Closely-Spaced-Infrared-Small-Target-Unmixing
-
 # Awesome Closely-Spaced Infrared Small Target Unmixing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome resources (papers, codes, datasets, etc.) for Closely-Spaced Infrared Small Target Unmixing (CSIST Unmixing).
