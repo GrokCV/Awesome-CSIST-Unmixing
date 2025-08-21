@@ -8,15 +8,19 @@
 
 ## Table of Contents
 
--   [Papers](#papers)
-    -   [By Year](#by-year)
-    -   [By Method](#by-method)
--   [Datasets and Benchmarks](#datasets-and-benchmarks)
--   [Software and Libraries](#software-and-libraries)
--   [Evaluation Metrics](#evaluation-metrics)
--   [Tutorials and Talks](#tutorials-and-talks)
--   [Related Research Groups](#related-research-groups)
--   [Other Awesome Lists](#other-awesome-lists)
+- [Awesome Closely-Spaced Infrared Small Target Unmixing ](#awesome-closely-spaced-infrared-small-target-unmixing-)
+  - [Table of Contents](#table-of-contents)
+  - [Papers](#papers)
+    - [By Year](#by-year)
+      - [2025](#2025)
+      - [2024](#2024)
+    - [By Method](#by-method)
+  - [Datasets and Benchmarks](#datasets-and-benchmarks)
+  - [Software and Libraries](#software-and-libraries)
+  - [Evaluation Metrics](#evaluation-metrics)
+  - [Related Research Groups](#related-research-groups)
+  - [Other Awesome Lists](#other-awesome-lists)
+  - [License](#license)
 
 ## Papers
 
@@ -27,6 +31,9 @@
 -   **[DISTA-Net: Dynamic Closely-Spaced Infrared Small Target Unmixing]()** - *Shengdong Han, Shangdong Yang, Xin Zhang, Yuxuan Li, Xiang Li, Jian Yang, Ming-Ming Cheng, Yimian Dai*, ICCV 2025 \
     [[Paper](https://arxiv.org/abs/2505.19148)]
     [[Code](https://github.com/GrokCV/GrokCSO) :star: ]
+-   **[SeqCSIST: Sequential Closely-Spaced Infrared Small Target Unmixing]()** - *Ximeng Zhai, Bohan Xu, Yaohong Chen, Hao Wang, Kehua Guo and Yimian Dai*, TGRS 2025 \
+    [[Paper](https://arxiv.org/abs/2507.09556)]
+    [[Code](https://github.com/GrokCV/SeqCSIST) :star: ]
 
 #### 2024
 -   **...
@@ -50,9 +57,9 @@
 -   **CSIST-100K** - A large-scale synthetic dataset (100k samples) for closely-spaced IR point target unmixing. Simulates 1-5 targets/image with a PSF of σ=0.5px, min separation ≥0.52 Rayleigh units, and random intensity. Targets overlap significantly in a 3×3 area, posing a strong challenge for counting and localization. (80k/10k/10k split).
     [Baidu Pan](https://pan.baidu.com/s/1nuedV5Okng8rgFWKy_sMoA?pwd=Grok)  [OneDrive](https://1drv.ms/f/c/698f69b8b2172561/EnQbsEb_rXpJlsNXinWyBbsBkhCsnSPM7UEgtczt7FDjmQ)
 
--   **MUIST** - Multi-target Infrared Small Target dataset \
-    *Description: ...* \
-    [[Download Link](https://pan.baidu.com/s/1_sxGh5oFQ8-3RpUUeMN2Mg?pwd=kxe9)]
+-   **SeqCSIST** - Sequential Closely-Spaced Infrared Small Target Unmixing \
+    *A sequential benchmark dataset for sequential closely-spaced infrared small target unmixing. A synthetic dataset which is generated with an image size of 11 × 11 pixels. Each image contains two to four targets, with intensities randomly sampled from the range. The targets follow random trajectories. Targets are rendered based on the 84% energy concentration resolution standard and a diffusion variance of 0.5 pixels. The ground truth, including the precise coordinates and intensity for each target, is provided in corresponding XML files.* \
+    [[Baidu Pan](https://pan.baidu.com/s/1_sxGh5oFQ8-3RpUUeMN2Mg?pwd=kxe9)  [OneDrive](https://1drv.ms/f/c/698f69b8b2172561/EuBC8549kZJIp_syz2Glft4BU2Fu5Ri-wYE888HJ9kmiiQ?e=zEISNc)]
 
 ## Software and Libraries
 
