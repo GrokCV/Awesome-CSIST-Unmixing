@@ -24,9 +24,9 @@
 *(This structure is great for tracking the latest progress. List papers in reverse chronological order.)*
 
 #### 2025
--   **Paper Title** - *First Author et al.*, Journal/Conference 2024 \
-    *A brief description of the contribution and the core method (e.g., "Proposed a novel deep unmixing network based on...")* \
-    [[Paper](Link to arXiv/DOI)] [[Code](Link to GitHub) :star: ] [[Project Page](Link)]
+-   **[DISTA-Net: Dynamic Closely-Spaced Infrared Small Target Unmixing]()** - *Shengdong Han, Shangdong Yang, Xin Zhang, Yuxuan Li, Xiang Li, Jian Yang, Ming-Ming Cheng, Yimian Dai*, ICCV 2025 \
+    [[Paper](https://arxiv.org/abs/2505.19148)]
+    [[Code](https://github.com/GrokCV/GrokCSO) :star: ]
 
 #### 2024
 -   **...
