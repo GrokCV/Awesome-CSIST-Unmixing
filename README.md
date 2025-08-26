@@ -42,14 +42,17 @@
 *(This structure helps researchers quickly find methods of a specific type.)*
 
 -   **Model-Based / Optimization Methods**
-    -   **Paper Title** - *Author et al.*, Journal 2022 \
-        *("Leveraged sparse representation and non-convex optimization...")* \
-        [[Paper](Link)]
+    -   **采用分裂Ｂｒｅｇｍａｎ的空间邻近目标红外超分辨算法** - *左芝勇*, Telecommunication Engineering, 2020 \
+        [[Paper](https://openurl.ebsco.com/EPDB%3Agcd%3A11%3A31617819/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A144824734&crl=c&link_origin=scholar.google.com)]
+
+    -   **采用分裂Ｂｒｅｇｍａｎ的空间邻近目标红外超分辨算法** - *左芝勇*, Telecommunication Engineering, 2020 \
+        [[Paper](https://openurl.ebsco.com/EPDB%3Agcd%3A11%3A31617819/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A144824734&crl=c&link_origin=scholar.google.com)]
+      
 
 -   **Deep Learning-Based Methods**
-    -   **UnmixNet: A Deep Network for...** - *Zhang et al.*, Conference 2023 \
+    -   **Closely-Spaced Object Classification Using MuyGPyS** - *Zhang et al.*, Conference 2023 \
         *("An end-to-end CNN architecture that directly outputs unmixed target parameters")* \
-        [[Paper](Link)] [[Code](Link) :star2: ]
+        [[Paper](https://arxiv.org/pdf/2311.10904)]
 
 ## Datasets and Benchmarks
 *(This is crucial for a data-driven field. Provide details on how to access and use them.)*
