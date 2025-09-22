@@ -46,8 +46,10 @@
  
     -   **QPSO-based algorithm of CSO joint infrared super-resolution and trajectory estimation** - *Lin, Liangkui and Xu, Hui and Xu, Dan and An, Wei and Xie, Kai*, Journal of Systems Engineering and Electronics, 2011 \
         [[Paper](https://ieeexplore.ieee.org/abstract/document/6077736/)]
-      
 
+    -   **Hierarchical Closely-Spaced Object (CSO) Resolution for IR Sensor Surveillance** - *Macumber, Daniel and Gadaleta, Sabino and Floyd, Allison and Poore, Aubrey*, Signal and Data Processing of Small Targets, 2005 \
+        [[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5913/591304/)]
+      
 -   **Deep Learning-Based Methods**
     -   **Closely-Spaced Object Classification Using MuyGPyS** - *Zhang et al.*, Conference 2023 \
         *("An end-to-end CNN architecture that directly outputs unmixed target parameters")* \
