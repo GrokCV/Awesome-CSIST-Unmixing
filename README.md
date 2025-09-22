@@ -38,7 +38,7 @@
 ### By Method
 
 -   **Model-Based / Optimization Methods**
-    -   **采用分裂Ｂｒｅｇｍａｎ的空间邻近目标红外超分辨算法** - *左芝勇*, Telecommunication Engineering, 2020 \
+    -   **采用分裂 Bregman 的空间邻近目标红外超分辨算法** - *左芝勇*, Telecommunication Engineering, 2020 \
         [[Paper](https://openurl.ebsco.com/EPDB%3Agcd%3A11%3A31617819/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A144824734&crl=c&link_origin=scholar.google.com)]
 
     -   **Electromagnetic Imaging of Closely Spaced Objects using Matching Pursuit Based Approaches** - *Şenyuva, R. V., Özdemir, Ö., Kurt, G. K., & Anarım*, IEEE Antennas and Wireless Propagation Letters, 2015 \
@@ -68,7 +68,7 @@
 
 ## Related Research Groups
 
--   **[GrokCV](https://yimian.grokcv.ai/)** - Nankai University ([Lab Website]([Link](https://www.nankai.edu.cn/))) - *Led by Prof. Yimian Dai. Long-term commitment to infrared small target detection and multi-modal visual perception in remote sensing.*
+-   **[GrokCV](https://yimian.grokcv.ai/)** - [Nankai University](https://www.nankai.edu.cn/) - *Led by Prof. Yimian Dai. Long-term commitment to infrared small target detection and multi-modal visual perception in remote sensing.*
 
 ## Other Awesome Lists
 
