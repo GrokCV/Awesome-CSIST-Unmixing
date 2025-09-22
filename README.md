@@ -25,7 +25,6 @@
 ## Papers
 
 ### By Year
-*(This structure is great for tracking the latest progress. List papers in reverse chronological order.)*
 
 #### 2025
 -   **[DISTA-Net: Dynamic Closely-Spaced Infrared Small Target Unmixing]()** - *Shengdong Han, Shangdong Yang, Xin Zhang, Yuxuan Li, Xiang Li, Jian Yang, Ming-Ming Cheng, Yimian Dai*, ICCV 2025 \
@@ -35,18 +34,15 @@
     [[Paper](https://arxiv.org/abs/2507.09556)]
     [[Code](https://github.com/GrokCV/SeqCSIST) :star: ]
 
-#### 2024
--   **...
 
 ### By Method
-*(This structure helps researchers quickly find methods of a specific type.)*
 
 -   **Model-Based / Optimization Methods**
     -   **采用分裂Ｂｒｅｇｍａｎ的空间邻近目标红外超分辨算法** - *左芝勇*, Telecommunication Engineering, 2020 \
         [[Paper](https://openurl.ebsco.com/EPDB%3Agcd%3A11%3A31617819/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A144824734&crl=c&link_origin=scholar.google.com)]
 
-    -   **采用分裂Ｂｒｅｇｍａｎ的空间邻近目标红外超分辨算法** - *左芝勇*, Telecommunication Engineering, 2020 \
-        [[Paper](https://openurl.ebsco.com/EPDB%3Agcd%3A11%3A31617819/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A144824734&crl=c&link_origin=scholar.google.com)]
+    -   **Electromagnetic Imaging of Closely Spaced Objects using Matching Pursuit Based Approaches** - *Şenyuva, R. V., Özdemir, Ö., Kurt, G. K., & Anarım*, IEEE Antennas and Wireless Propagation Letters, 2015 \
+        [[Paper](https://ieeexplore.ieee.org/abstract/document/7327171/)]
       
 
 -   **Deep Learning-Based Methods**
@@ -64,16 +60,6 @@
     *A sequential benchmark dataset for sequential closely-spaced infrared small target unmixing. A synthetic dataset which is generated with an image size of 11 × 11 pixels. Each image contains two to four targets, with intensities randomly sampled from the range. The targets follow random trajectories. Targets are rendered based on the 84% energy concentration resolution standard and a diffusion variance of 0.5 pixels. The ground truth, including the precise coordinates and intensity for each target, is provided in corresponding XML files.* \
     [[Baidu Pan](https://pan.baidu.com/s/1_sxGh5oFQ8-3RpUUeMN2Mg?pwd=kxe9)  [OneDrive](https://1drv.ms/f/c/698f69b8b2172561/EuBC8549kZJIp_syz2Glft4BU2Fu5Ri-wYE888HJ9kmiiQ?e=zEISNc)]
 
-## Software and Libraries
-
--   **IRSTU-Toolbox** - \
-    *A MATLAB toolbox featuring implementations of classic algorithms (e.g., LCM, MPCM) and evaluation metrics for IR small target detection and unmixing.* \
-    [[GitHub](Link)] :star: 123
-
--   **UnmixLib** - \
-    *A Python package for model-based infrared target unmixing, including utilities for generating synthetic data.* \
-    [[GitHub](Link)] :star: 45
-
 ## Evaluation Metrics
 *(Explain the common metrics used to evaluate unmixing performance in your field.)*
 
@@ -82,8 +68,7 @@
 
 ## Related Research Groups
 
--   **Advanced IR Lab** - University of Example ([Lab Website](Link)) - *Led by Prof. John Smith. Focuses on signal processing for infrared systems.*
--   **Aerospace Vision Group** - Example Institute of Technology ([Group Page](Link)) - *Known for work on target detection and tracking.*
+-   **[GrokCV](https://yimian.grokcv.ai/)** - Nankai University ([Lab Website]([Link](https://www.nankai.edu.cn/))) - *Led by Prof. Yimian Dai. Long-term commitment to infrared small target detection and multi-modal visual perception in remote sensing.*
 
 ## Other Awesome Lists
 
