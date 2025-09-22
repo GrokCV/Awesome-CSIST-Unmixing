@@ -43,6 +43,9 @@
 
     -   **Electromagnetic Imaging of Closely Spaced Objects using Matching Pursuit Based Approaches** - *Şenyuva, R. V., Özdemir, Ö., Kurt, G. K., & Anarım*, IEEE Antennas and Wireless Propagation Letters, 2015 \
         [[Paper](https://ieeexplore.ieee.org/abstract/document/7327171/)]
+ 
+    -   **QPSO-based algorithm of CSO joint infrared super-resolution and trajectory estimation** - *Lin, Liangkui and Xu, Hui and Xu, Dan and An, Wei and Xie, Kai*, Journal of Systems Engineering and Electronics, 2011 \
+        [[Paper](https://ieeexplore.ieee.org/abstract/document/6077736/)]
       
 
 -   **Deep Learning-Based Methods**
