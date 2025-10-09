@@ -13,10 +13,8 @@
   - [Papers](#papers)
     - [By Year](#by-year)
       - [2025](#2025)
-      - [2024](#2024)
     - [By Method](#by-method)
   - [Datasets and Benchmarks](#datasets-and-benchmarks)
-  - [Software and Libraries](#software-and-libraries)
   - [Evaluation Metrics](#evaluation-metrics)
   - [Related Research Groups](#related-research-groups)
   - [Other Awesome Lists](#other-awesome-lists)
@@ -38,19 +36,37 @@
 ### By Method
 
 -   **Model-Based / Optimization Methods**
+    -   **Closely spaced object detection utilizing spatial information in spectroastrometric observations** - *J. Zachary Gazak, Ryan Swindle, Zachary Funke, Matthew Phelps, Justin Fletcher*, Sensors and Systems for Space Applications XV. SPIE, 2022 \
+        [[Paper](https://neurophotonics.spiedigitallibrary.org/conference-proceedings-of-spie/12121/121210K/Closely-spaced-object-detection-utilizing-spatial-information-in-spectroastrometric-observations/10.1117/12.2625366.full)]
+
     -   **采用分裂 Bregman 的空间邻近目标红外超分辨算法** - *左芝勇*, Telecommunication Engineering, 2020 \
         [[Paper](https://openurl.ebsco.com/EPDB%3Agcd%3A11%3A31617819/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A144824734&crl=c&link_origin=scholar.google.com)]
 
+    -   **The infrared image closely spaced objects super resolution method based on sparse reconstruction under the noise environment** - *J Zeng, J Yang, H Wu*, International Conference on Optical and Photonics Engineering (icOPEN 2016). SPIE, 2017 \
+        [[Paper](https://nanophotonics.spiedigitallibrary.org/conference-proceedings-of-spie/10250/102502V/The-infrared-image-closely-spaced-objects-super-resolution-method-based/10.1117/12.2266856.full)]
+
     -   **Electromagnetic Imaging of Closely Spaced Objects using Matching Pursuit Based Approaches** - *Şenyuva, R. V., Özdemir, Ö., Kurt, G. K., & Anarım*, IEEE Antennas and Wireless Propagation Letters, 2015 \
         [[Paper](https://ieeexplore.ieee.org/abstract/document/7327171/)]
- 
+
+    -   **Bayesian approach to joint super-resolution and trajectory estimation for midcourse closely spaced objects via space-based infrared sensor** - *Liangkui Lin, Weidong Sheng, Dan Xu*, Optical Engineering, 2012 \
+        [[Paper](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-51/issue-11/117003/Bayesian-approach-to-joint-super-resolution-and-trajectory-estimation-for/10.1117/1.OE.51.11.117003.full)]
+
     -   **QPSO-based algorithm of CSO joint infrared super-resolution and trajectory estimation** - *Lin, Liangkui and Xu, Hui and Xu, Dan and An, Wei and Xie, Kai*, Journal of Systems Engineering and Electronics, 2011 \
         [[Paper](https://ieeexplore.ieee.org/abstract/document/6077736/)]
+    
+    -  **基于 Gibbs 抽样的红外成像小间距目标分辨方法** - *刘涛*, Journal of Signal Processing, 2010 \
+        [[Paper](https://signal.ejournal.org.cn/article/id/8568)]
 
     -   **Hierarchical Closely-Spaced Object (CSO) Resolution for IR Sensor Surveillance** - *Macumber, Daniel and Gadaleta, Sabino and Floyd, Allison and Poore, Aubrey*, Signal and Data Processing of Small Targets, 2005 \
         [[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5913/591304/)]
+
+    -   **Model-based superresolution CSO processing** - *John T. Reagan, Theagenis J. Abatzoglou*, Signal and Data Processing of Small Targets 1993. SPIE, 2005 \
+        [[Paper](https://opticalengineering.spiedigitallibrary.org/conference-proceedings-of-spie/1954/0000/Model-based-superresolution-CSO-processing/10.1117/12.157809.full)]
       
 -   **Deep Learning-Based Methods**
+    -   **A Resolution and Localization Algorithm for Closely-Spaced Objects Based on Improved YOLOv5 Joint Fuzzy C-Means Clustering** - *Li et al.*, IEEE Photonics Journal 2024 \
+        [[Paper](https://ieeexplore.ieee.org/document/10418965)]
+    
     -   **Closely-Spaced Object Classification Using MuyGPyS** - *Zhang et al.*, Conference 2023 \
         *("An end-to-end CNN architecture that directly outputs unmixed target parameters")* \
         [[Paper](https://arxiv.org/pdf/2311.10904)]
