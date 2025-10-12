@@ -29,11 +29,48 @@
 #### 2025
 -   **[DISTA-Net: Dynamic Closely-Spaced Infrared Small Target Unmixing]()** - *Shengdong Han, Shangdong Yang, Xin Zhang, Yuxuan Li, Xiang Li, Jian Yang, Ming-Ming Cheng, Yimian Dai*, ICCV 2025 \
     [[Paper](https://arxiv.org/abs/2505.19148)]
-    [[Code](https://github.com/GrokCV/GrokCSO) :star: ]
+    [[Code](https://github.com/GrokCV/GrokCSO)]
 -   **[SeqCSIST: Sequential Closely-Spaced Infrared Small Target Unmixing]()** - *Ximeng Zhai, Bohan Xu, Yaohong Chen, Hao Wang, Kehua Guo and Yimian Dai*, TGRS 2025 \
     [[Paper](https://arxiv.org/abs/2507.09556)]
-    [[Code](https://github.com/GrokCV/SeqCSIST) :star: ]
+    [[Code](https://github.com/GrokCV/SeqCSIST)]
+#### 2024
+-   **A Resolution and Localization Algorithm for Closely-Spaced Objects Based on Improved YOLOv5 Joint Fuzzy C-Means Clustering** - *Li et al.*, IEEE Photonics Journal 2024 \
+    [[Paper](https://ieeexplore.ieee.org/document/10418965)]
 
+#### 2023
+-   **Closely-Spaced Object Classification Using MuyGPyS** - *Zhang et al.*, Conference 2023 \
+    [[Paper](https://arxiv.org/pdf/2311.10904)]
+
+#### 2022
+-   **Closely spaced object detection utilizing spatial information in spectroastrometric observations** - *J. Zachary Gazak, Ryan Swindle, Zachary Funke, Matthew Phelps, Justin Fletcher*, Sensors and Systems for Space Applications XV. SPIE, 2022 \
+    [[Paper](https://neurophotonics.spiedigitallibrary.org/conference-proceedings-of-spie/12121/121210K/Closely-spaced-object-detection-utilizing-spatial-information-in-spectroastrometric-observations/10.1117/12.2625366.full)]
+
+#### 2020
+-   **An infrared super resolution algorithm using split Bregman for closely spaced objects Bregman** - *ZUO Zhiyong*, Telecommunication Engineering, 2020 \
+    [[Paper](https://openurl.ebsco.com/EPDB%3Agcd%3A11%3A31617819/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A144824734&crl=c&link_origin=scholar.google.com)]
+
+#### 2005-2020
+
+-   **The infrared image closely spaced objects super resolution method based on sparse reconstruction under the noise environment** - *J Zeng, J Yang, H Wu*, International Conference on Optical and Photonics Engineering (icOPEN 2016). SPIE, 2017 \
+    [[Paper](https://nanophotonics.spiedigitallibrary.org/conference-proceedings-of-spie/10250/102502V/The-infrared-image-closely-spaced-objects-super-resolution-method-based/10.1117/12.2266856.full)]
+
+-   **Electromagnetic Imaging of Closely Spaced Objects using Matching Pursuit Based Approaches** - *Şenyuva, R. V., Özdemir, Ö., Kurt, G. K., & Anarım*, IEEE Antennas and Wireless Propagation Letters, 2015 \
+    [[Paper](https://ieeexplore.ieee.org/abstract/document/7327171/)]
+
+-   **Bayesian approach to joint super-resolution and trajectory estimation for midcourse closely spaced objects via space-based infrared sensor** - *Liangkui Lin, Weidong Sheng, Dan Xu*, Optical Engineering, 2012 \
+    [[Paper](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-51/issue-11/117003/Bayesian-approach-to-joint-super-resolution-and-trajectory-estimation-for/10.1117/1.OE.51.11.117003.full)]
+
+-   **QPSO-based algorithm of CSO joint infrared super-resolution and trajectory estimation** - *Lin, Liangkui and Xu, Hui and Xu, Dan and An, Wei and Xie, Kai*, Journal of Systems Engineering and Electronics, 2011 \
+    [[Paper](https://ieeexplore.ieee.org/abstract/document/6077736/)]
+
+-  **A Gibbs Sampling Approach to Closely Spaced Objects Resolution IR Focal Plane** - *LIU Tao*, Journal of Signal Processing, 2010 \
+    [[Paper](https://signal.ejournal.org.cn/article/id/8568)]
+
+-   **Hierarchical Closely-Spaced Object (CSO) Resolution for IR Sensor Surveillance** - *Macumber, Daniel and Gadaleta, Sabino and Floyd, Allison and Poore, Aubrey*, Signal and Data Processing of Small Targets, 2005 \
+    [[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5913/591304/)]
+
+-   **Model-based superresolution CSO processing** - *John T. Reagan, Theagenis J. Abatzoglou*, Signal and Data Processing of Small Targets 1993. SPIE, 2005 \
+    [[Paper](https://opticalengineering.spiedigitallibrary.org/conference-proceedings-of-spie/1954/0000/Model-based-superresolution-CSO-processing/10.1117/12.157809.full)]
 
 ### By Method
 
