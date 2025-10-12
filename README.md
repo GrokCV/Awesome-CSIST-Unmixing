@@ -94,6 +94,8 @@
 *(Explain the common metrics used to evaluate unmixing performance in your field.)*
 
 -   **CSO-mAP**: The mean Average Precision over multiple sub-pixel distance thresholds (δ=0.05 to 0.25px). Designed to evaluate precise localization in scenarios where targets are closer than the Rayleigh criterion, where standard metrics fail.
+    [[Paper](https://arxiv.org/abs/2505.19148)]
+    [[Code](https://github.com/GrokCV/GrokCSO) :star: ]
 
 
 ## Related Research Groups
