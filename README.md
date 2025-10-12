@@ -21,7 +21,7 @@
       - [2020](#2020)
       - [2005-2020](#2005-2020)
     - [By Method](#by-method)
-      - [Model-Based / Optimization Methods](#Model-Based-/-Optimization-Methods)
+      - [Model-Based / Optimization Methods](#by-method)
       - [Deep Learning-Based Methods](#Deep-Learning-Based-Methods)
   - [Datasets and Benchmarks](#datasets-and-benchmarks)
   - [Evaluation Metrics](#evaluation-metrics)
