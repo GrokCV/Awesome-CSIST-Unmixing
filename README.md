@@ -140,6 +140,6 @@
 
 ## Related Research Groups
 
--   **[GrokCV](https://yimian.grokcv.ai/)** - [Nankai University](https://www.nankai.edu.cn/) - *Led by Prof. Yimian Dai. Long-term commitment to infrared small target detection and multi-modal visual perception in remote sensing.*
+-   **[GrokCV](https://yimian.grokcv.ai/)** - [Nankai University](https://www.nankai.edu.cn/) - *Led by Associate Professor Yimian Dai. Long-term commitment to infrared small target detection and multi-modal visual perception in remote sensing.*
 
 
