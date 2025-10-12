@@ -19,8 +19,6 @@
   - [Datasets and Benchmarks](#datasets-and-benchmarks)
   - [Evaluation Metrics](#evaluation-metrics)
   - [Related Research Groups](#related-research-groups)
-  - [Other Awesome Lists](#other-awesome-lists)
-  - [License](#license)
 
 ## Papers
 
@@ -118,7 +116,6 @@
         [[Paper](https://arxiv.org/pdf/2311.10904)]
 
 ## Datasets and Benchmarks
-*(This is crucial for a data-driven field. Provide details on how to access and use them.)*
 
 -   **CSIST-100K** - A large-scale synthetic dataset (100k samples) for closely-spaced IR point target unmixing. Simulates 1-5 targets/image with a PSF of σ=0.5px, min separation ≥0.52 Rayleigh units, and random intensity. Targets overlap significantly in a 3×3 area, posing a strong challenge for counting and localization. (80k/10k/10k split).
     [[Baidu Pan](https://pan.baidu.com/s/1nuedV5Okng8rgFWKy_sMoA?pwd=Grok)  [OneDrive](https://1drv.ms/f/c/698f69b8b2172561/EnQbsEb_rXpJlsNXinWyBbsBkhCsnSPM7UEgtczt7FDjmQ)]
@@ -128,7 +125,6 @@
     [[Baidu Pan](https://pan.baidu.com/s/1_sxGh5oFQ8-3RpUUeMN2Mg?pwd=kxe9)  [OneDrive](https://1drv.ms/f/c/698f69b8b2172561/EuBC8549kZJIp_syz2Glft4BU2Fu5Ri-wYE888HJ9kmiiQ?e=zEISNc)]
 
 ## Evaluation Metrics
-*(Explain the common metrics used to evaluate unmixing performance in your field.)*
 
 -   **CSO-mAP**: The mean Average Precision over multiple sub-pixel distance thresholds (δ=0.05 to 0.25px). Designed to evaluate precise localization in scenarios where targets are closer than the Rayleigh criterion, where standard metrics fail.
     [[Paper](https://arxiv.org/abs/2505.19148)]
