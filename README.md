@@ -124,7 +124,7 @@
 
 ## Datasets and Benchmarks
 
--   **CSIST-100K** - A large-scale synthetic dataset (100k samples) for closely-spaced IR point target unmixing. Simulates 1-5 targets/image with a PSF of σ=0.5px, min separation ≥0.52 Rayleigh units, and random intensity. Targets overlap significantly in a 3×3 area, posing a strong challenge for counting and localization. (80k/10k/10k split).
+-   **CSIST-100K** - A large-scale synthetic dataset (100k samples) for closely-spaced IR point target unmixing. Simulates 1-5 targets/image with a PSF of σ=0.5px, min separation ≥0.52 Rayleigh units, and random intensity. Targets overlap significantly in a 3×3 area, posing a strong challenge for counting and localization. (80k/10k/10k split).\
     [[Baidu Pan](https://pan.baidu.com/s/1nuedV5Okng8rgFWKy_sMoA?pwd=Grok)  [OneDrive](https://1drv.ms/f/c/698f69b8b2172561/EnQbsEb_rXpJlsNXinWyBbsBkhCsnSPM7UEgtczt7FDjmQ)]
 
 -   **SeqCSIST** - Sequential Closely-Spaced Infrared Small Target Unmixing \
