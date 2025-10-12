@@ -19,7 +19,7 @@
       - [2023](#2023)
       - [2022](#2022)
       - [2020](#2020)
-      - [2005-2020](#2005-2020)
+      - [Pre-2020](#Pre-2020)
     - [By Method](#by-method)
       - [Model-Based / Optimization Methods](#by-method)
       - [Deep Learning-Based Methods](#Deep-Learning-Based-Methods)
@@ -54,7 +54,7 @@
 -   **An infrared super resolution algorithm using split Bregman for closely spaced objects Bregman** - *ZUO Zhiyong*, Telecommunication Engineering, 2020 \
     [[Paper](https://openurl.ebsco.com/EPDB%3Agcd%3A11%3A31617819/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A144824734&crl=c&link_origin=scholar.google.com)]
 
-#### 2005-2020
+#### Pre-2020
 
 -   **The infrared image closely spaced objects super resolution method based on sparse reconstruction under the noise environment** - *J Zeng, J Yang, H Wu*, International Conference on Optical and Photonics Engineering (icOPEN 2016). SPIE, 2017 \
     [[Paper](https://nanophotonics.spiedigitallibrary.org/conference-proceedings-of-spie/10250/102502V/The-infrared-image-closely-spaced-objects-super-resolution-method-based/10.1117/12.2266856.full)]
