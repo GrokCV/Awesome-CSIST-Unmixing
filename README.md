@@ -27,10 +27,10 @@
 ### By Year
 
 #### 2025
--   **[DISTA-Net: Dynamic Closely-Spaced Infrared Small Target Unmixing]()** - *Shengdong Han, Shangdong Yang, Xin Zhang, Yuxuan Li, Xiang Li, Jian Yang, Ming-Ming Cheng, Yimian Dai*, ICCV 2025 \
+-   **DISTA-Net: Dynamic Closely-Spaced Infrared Small Target Unmixing** - *Shengdong Han, Shangdong Yang, Xin Zhang, Yuxuan Li, Xiang Li, Jian Yang, Ming-Ming Cheng, Yimian Dai*, ICCV 2025 \
     [[Paper](https://arxiv.org/abs/2505.19148)]
     [[Code](https://github.com/GrokCV/GrokCSO)]
--   **[SeqCSIST: Sequential Closely-Spaced Infrared Small Target Unmixing]()** - *Ximeng Zhai, Bohan Xu, Yaohong Chen, Hao Wang, Kehua Guo and Yimian Dai*, TGRS 2025 \
+-   **SeqCSIST: Sequential Closely-Spaced Infrared Small Target Unmixing** - *Ximeng Zhai, Bohan Xu, Yaohong Chen, Hao Wang, Kehua Guo and Yimian Dai*, TGRS 2025 \
     [[Paper](https://arxiv.org/abs/2507.09556)]
     [[Code](https://github.com/GrokCV/SeqCSIST)]
 #### 2024
