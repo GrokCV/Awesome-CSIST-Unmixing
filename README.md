@@ -39,7 +39,7 @@
     -   **Closely spaced object detection utilizing spatial information in spectroastrometric observations** - *J. Zachary Gazak, Ryan Swindle, Zachary Funke, Matthew Phelps, Justin Fletcher*, Sensors and Systems for Space Applications XV. SPIE, 2022 \
         [[Paper](https://neurophotonics.spiedigitallibrary.org/conference-proceedings-of-spie/12121/121210K/Closely-spaced-object-detection-utilizing-spatial-information-in-spectroastrometric-observations/10.1117/12.2625366.full)]
 
-    -   **采用分裂 Bregman 的空间邻近目标红外超分辨算法** - *左芝勇*, Telecommunication Engineering, 2020 \
+    -   **An infrared super resolution algorithm using split Bregman for closely spaced objects Bregman** - *ZUO Zhiyong*, Telecommunication Engineering, 2020 \
         [[Paper](https://openurl.ebsco.com/EPDB%3Agcd%3A11%3A31617819/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A144824734&crl=c&link_origin=scholar.google.com)]
 
     -   **The infrared image closely spaced objects super resolution method based on sparse reconstruction under the noise environment** - *J Zeng, J Yang, H Wu*, International Conference on Optical and Photonics Engineering (icOPEN 2016). SPIE, 2017 \
@@ -54,7 +54,7 @@
     -   **QPSO-based algorithm of CSO joint infrared super-resolution and trajectory estimation** - *Lin, Liangkui and Xu, Hui and Xu, Dan and An, Wei and Xie, Kai*, Journal of Systems Engineering and Electronics, 2011 \
         [[Paper](https://ieeexplore.ieee.org/abstract/document/6077736/)]
     
-    -  **基于 Gibbs 抽样的红外成像小间距目标分辨方法** - *刘涛*, Journal of Signal Processing, 2010 \
+    -  **A Gibbs Sampling Approach to Closely Spaced Objects Resolution IR Focal Plane** - *LIU Tao*, Journal of Signal Processing, 2010 \
         [[Paper](https://signal.ejournal.org.cn/article/id/8568)]
 
     -   **Hierarchical Closely-Spaced Object (CSO) Resolution for IR Sensor Surveillance** - *Macumber, Daniel and Gadaleta, Sabino and Floyd, Allison and Poore, Aubrey*, Signal and Data Processing of Small Targets, 2005 \
@@ -64,6 +64,13 @@
         [[Paper](https://opticalengineering.spiedigitallibrary.org/conference-proceedings-of-spie/1954/0000/Model-based-superresolution-CSO-processing/10.1117/12.157809.full)]
       
 -   **Deep Learning-Based Methods**
+    -   **[DISTA-Net: Dynamic Closely-Spaced Infrared Small Target Unmixing]()** - *Shengdong Han, Shangdong Yang, Xin Zhang, Yuxuan Li, Xiang Li, Jian Yang, Ming-Ming Cheng, Yimian Dai*, ICCV 2025 \
+    [[Paper](https://arxiv.org/abs/2505.19148)]
+    [[Code](https://github.com/GrokCV/GrokCSO) :star: ]
+    -   **[SeqCSIST: Sequential Closely-Spaced Infrared Small Target Unmixing]()** - *Ximeng Zhai, Bohan Xu, Yaohong Chen, Hao Wang, Kehua Guo and Yimian Dai*, TGRS 2025 \
+    [[Paper](https://arxiv.org/abs/2507.09556)]
+    [[Code](https://github.com/GrokCV/SeqCSIST) :star: ]
+    
     -   **A Resolution and Localization Algorithm for Closely-Spaced Objects Based on Improved YOLOv5 Joint Fuzzy C-Means Clustering** - *Li et al.*, IEEE Photonics Journal 2024 \
         [[Paper](https://ieeexplore.ieee.org/document/10418965)]
     
@@ -91,14 +98,4 @@
 
 -   **[GrokCV](https://yimian.grokcv.ai/)** - [Nankai University](https://www.nankai.edu.cn/) - *Led by Prof. Yimian Dai. Long-term commitment to infrared small target detection and multi-modal visual perception in remote sensing.*
 
-## Other Awesome Lists
 
--   [Awesome Infrared Small Target Detection](https://github.com/xxx/awesome-infrared-small-target-detection) - A more general list on IR small target detection.
--   [Awesome Target Tracking](https://github.com/yyy/awesome-tracking) - A list for single and multiple target tracking.
--   [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - The giant umbrella list for all things CV.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Your Name] has waived all copyright and related or neighboring rights to this work.
