@@ -15,7 +15,14 @@
   - [Papers](#papers)
     - [By Year](#by-year)
       - [2025](#2025)
+      - [2024](#2024)
+      - [2023](#2023)
+      - [2022](#2022)
+      - [2020](#2020)
+      - [2005-2020](#2005-2020)
     - [By Method](#by-method)
+      - [Model-Based / Optimization Methods](#Model-Based / Optimization Methods)
+      - [Deep Learning-Based Methods](#Deep Learning-Based Methods)
   - [Datasets and Benchmarks](#datasets-and-benchmarks)
   - [Evaluation Metrics](#evaluation-metrics)
   - [Related Research Groups](#related-research-groups)
@@ -72,7 +79,7 @@
 
 ### By Method
 
--   **Model-Based / Optimization Methods**
+#### **Model-Based / Optimization Methods**
     -   **Closely spaced object detection utilizing spatial information in spectroastrometric observations** - *J. Zachary Gazak, Ryan Swindle, Zachary Funke, Matthew Phelps, Justin Fletcher*, Sensors and Systems for Space Applications XV. SPIE, 2022 \
         [[Paper](https://neurophotonics.spiedigitallibrary.org/conference-proceedings-of-spie/12121/121210K/Closely-spaced-object-detection-utilizing-spatial-information-in-spectroastrometric-observations/10.1117/12.2625366.full)]
 
@@ -100,7 +107,7 @@
     -   **Model-based superresolution CSO processing** - *John T. Reagan, Theagenis J. Abatzoglou*, Signal and Data Processing of Small Targets 1993. SPIE, 2005 \
         [[Paper](https://opticalengineering.spiedigitallibrary.org/conference-proceedings-of-spie/1954/0000/Model-based-superresolution-CSO-processing/10.1117/12.157809.full)]
       
--   **Deep Learning-Based Methods**
+#### **Deep Learning-Based Methods**
     -   **DISTA-Net: Dynamic Closely-Spaced Infrared Small Target Unmixing** - *Shengdong Han, Shangdong Yang, Xin Zhang, Yuxuan Li, Xiang Li, Jian Yang, Ming-Ming Cheng, Yimian Dai*, ICCV 2025 \
     [[Paper](https://arxiv.org/abs/2505.19148)]
     [[Code](https://github.com/GrokCV/GrokCSO) :star: ]
