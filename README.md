@@ -43,7 +43,7 @@
     [[Paper](https://ieeexplore.ieee.org/document/10418965)]
 
 #### 2023
--   **Closely-Spaced Object Classification Using MuyGPyS** - *Zhang et al.*, Advanced Maui. Optical and Space Surveillance (AMOS) Technologies Conference, 2023 \
+-   **Closely-Spaced Object Classification Using MuyGPyS** - *Zhang et al.*, Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS), 2023 \
     [[Paper](https://arxiv.org/pdf/2311.10904)]
 
 #### 2022
