@@ -118,7 +118,7 @@
   -   **A Resolution and Localization Algorithm for Closely-Spaced Objects Based on Improved YOLOv5 Joint Fuzzy C-Means Clustering** - *Li et al.*, IEEE Photonics Journal 2024 \
       [[Paper](https://ieeexplore.ieee.org/document/10418965)]
   
-  -   **Closely-Spaced Object Classification Using MuyGPyS** - *Zhang et al.*, Conference 2023 \
+  -   **Closely-Spaced Object Classification Using MuyGPyS** - *Zhang et al.*, Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS), 2023 \
       *("An end-to-end CNN architecture that directly outputs unmixed target parameters")* \
       [[Paper](https://arxiv.org/pdf/2311.10904)]
 
