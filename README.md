@@ -74,7 +74,7 @@
 -   **Hierarchical Closely-Spaced Object (CSO) Resolution for IR Sensor Surveillance** - *Macumber, Daniel and Gadaleta, Sabino and Floyd, Allison and Poore, Aubrey*, Signal and Data Processing of Small Targets, 2005 \
     [[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5913/591304/)]
 
--   **Model-based superresolution CSO processing** - *John T. Reagan, Theagenis J. Abatzoglou*, Signal and Data Processing of Small Targets 1993. SPIE, 2005 \
+-   **Model-based superresolution CSO processing** - *John T. Reagan, Theagenis J. Abatzoglou*, Signal and Data Processing of Small Targets, 1993 \
     [[Paper](https://opticalengineering.spiedigitallibrary.org/conference-proceedings-of-spie/1954/0000/Model-based-superresolution-CSO-processing/10.1117/12.157809.full)]
 
 ### By Method
@@ -104,7 +104,7 @@
   -   **Hierarchical Closely-Spaced Object (CSO) Resolution for IR Sensor Surveillance** - *Macumber, Daniel and Gadaleta, Sabino and Floyd, Allison and Poore, Aubrey*, Signal and Data Processing of Small Targets, 2005 \
       [[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5913/591304/)]
 
-  -   **Model-based superresolution CSO processing** - *John T. Reagan, Theagenis J. Abatzoglou*, Signal and Data Processing of Small Targets 1993. SPIE, 2005 \
+  -   **Model-based superresolution CSO processing** - *John T. Reagan, Theagenis J. Abatzoglou*, Signal and Data Processing of Small Targets, 1993. \
       [[Paper](https://opticalengineering.spiedigitallibrary.org/conference-proceedings-of-spie/1954/0000/Model-based-superresolution-CSO-processing/10.1117/12.157809.full)]
       
 #### **Deep Learning-Based Methods**
@@ -115,7 +115,7 @@
   [[Paper](https://arxiv.org/abs/2507.09556)]
   [[Code](https://github.com/GrokCV/SeqCSIST) :star: ]
   
-  -   **A Resolution and Localization Algorithm for Closely-Spaced Objects Based on Improved YOLOv5 Joint Fuzzy C-Means Clustering** - *Li et al.*, IEEE Photonics Journal 2024 \
+  -   **A Resolution and Localization Algorithm for Closely-Spaced Objects Based on Improved YOLOv5 Joint Fuzzy C-Means Clustering** - *Li et al.*, IEEE Photonics Journal, 2024 \
       [[Paper](https://ieeexplore.ieee.org/document/10418965)]
   
   -   **Closely-Spaced Object Classification Using MuyGPyS** - *Zhang et al.*, Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS), 2023 \
