@@ -6,7 +6,7 @@
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
-*The Chinese version can be accessed through 🌐 [中文版本](中文文档.md)*
+*The Chinese version can be accessed through 🌐 [中文版本](https://yimian.grokcv.ai/blog/awesome-csist-unmixing/)*
 
 ## Table of Contents
 
@@ -104,7 +104,7 @@
   -   **Hierarchical Closely-Spaced Object (CSO) Resolution for IR Sensor Surveillance** - *Macumber, Daniel and Gadaleta, Sabino and Floyd, Allison and Poore, Aubrey*, Signal and Data Processing of Small Targets, 2005 \
       [[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5913/591304/)]
 
-  -   **Model-based superresolution CSO processing** - *John T. Reagan, Theagenis J. Abatzoglou*, Signal and Data Processing of Small Targets, 1993. \
+  -   **Model-based superresolution CSO processing** - *John T. Reagan, Theagenis J. Abatzoglou*, Signal and Data Processing of Small Targets, 1993 \
       [[Paper](https://opticalengineering.spiedigitallibrary.org/conference-proceedings-of-spie/1954/0000/Model-based-superresolution-CSO-processing/10.1117/12.157809.full)]
       
 #### **Deep Learning-Based Methods**
