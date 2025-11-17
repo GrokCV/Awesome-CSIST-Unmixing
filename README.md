@@ -39,7 +39,7 @@
     [[Paper](https://arxiv.org/abs/2507.09556)]
     [[Code](https://github.com/GrokCV/SeqCSIST) :star:]
 #### 2024
--   **A Resolution and Localization Algorithm for Closely-Spaced Objects Based on Improved YOLOv5 Joint Fuzzy C-Means Clustering** - *Li et al.*, IEEE Photonics Journal 2024 \
+-   **A Resolution and Localization Algorithm for Closely-Spaced Objects Based on Improved YOLOv5 Joint Fuzzy C-Means Clustering** - *Li et al.*, IEEE Photonics Journal, 2024 \
     [[Paper](https://ieeexplore.ieee.org/document/10418965)]
 
 #### 2023
