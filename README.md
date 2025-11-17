@@ -132,14 +132,14 @@
     [[Baidu Pan](https://pan.baidu.com/s/1_sxGh5oFQ8-3RpUUeMN2Mg?pwd=kxe9)  [OneDrive](https://1drv.ms/f/c/698f69b8b2172561/EuBC8549kZJIp_syz2Glft4BU2Fu5Ri-wYE888HJ9kmiiQ?e=zEISNc)]
 
 -   **Custom Simulation Datasets** - Custom Infrared Target Simulation Data Generation Methods \
-    - **Research on Infrared Imaging Simulation of Mid-course Ballistic Target Group** - *Liangkui Lin, Kai Xie, Hui Xu*, Journal of Infrared and Millimeter Waves, 2009. [[论文](https://www.researching.cn/ArticlePdf/m00032/2009/28/3/2009-03-0218.pdf)]
-    - **Research on Infrared Radiation Data Simulation for Ballistic Target Recognition** - *Junliang Liu, Shangfeng Chen, Huanzhang Lu*, Infrared and Laser Engineering, 2016. [[论文](https://www.researching.cn/ArticlePdf/m00018/2016/45/10/1004002.pdf)]
-    - **Research on Infrared Image Simulation of Targets in Deep Space Dynamic Scenes** - *Zhijun Li, Weihua Wang, Zengping Chen*, Infrared Technology, 2007. [[论文](http://hwjs.nvir.cn/article/doi/10.3969/j.issn.1001-8891.2007.07.010)]
-    - **On-orbit Infrared Imaging Simulation of Space Targets** - *Ying Wang, Jianming Huang, Xiangquan Wei*, Infrared and Laser Engineering, 2015. [[论文](https://www.researching.cn/ArticlePdf/m00018/2015/44/9/2015-09-2593.pdf)]
-    - **Dynamic Simulation Platform for Infrared Moving Target Trajectory Reconstruction** - *Chengzhe Yao, Weilan Guo, Qian Chen*, Infrared and Laser Engineering, 2022. [[论文](https://www.researching.cn/ArticlePdf/m00018/2022/51/2/20210901.pdf)]
-    - **Digital Imaging Simulation of Space-based Small Targets in Complex Scenes** - *Pengfei Li, Wei Xu, Yongjie Piao*, Journal of System Simulation, 2025. [[论文](https://www.china-simulation.com/CN/10.16182/j.issn1004731x.joss.24-0900)]
-    - **Research on Noise Measurement Simulation for Infrared Imaging Systems** - *Qianjin Zou, Rui Dai, Xin Liu*, Infrared Technology, 2008. [[论文](http://hwjs.nvir.cn/cn/article/pdf/preview/10.3969/j.issn.1001-8891.2008.06.010.pdf)]
-    - **Exploring Video Denoising in Thermal Infrared Imaging: Physics-Inspired Noise Generator, Dataset, and Model** - *Cai L, Dong X, Zhou K*，IEEE Transactions on Image Processing, 2024. [[论文](https://ieeexplore.ieee.org/document/10507231)]
+    - **Research on Infrared Imaging Simulation of Mid-course Ballistic Target Group** - *Liangkui Lin, Kai Xie, Hui Xu*, Journal of Infrared and Millimeter Waves, 2009. [[Paper](https://www.researching.cn/ArticlePdf/m00032/2009/28/3/2009-03-0218.pdf)]
+    - **Research on Infrared Radiation Data Simulation for Ballistic Target Recognition** - *Junliang Liu, Shangfeng Chen, Huanzhang Lu*, Infrared and Laser Engineering, 2016. [[Paper](https://www.researching.cn/ArticlePdf/m00018/2016/45/10/1004002.pdf)]
+    - **Research on Infrared Image Simulation of Targets in Deep Space Dynamic Scenes** - *Zhijun Li, Weihua Wang, Zengping Chen*, Infrared Technology, 2007. [[Paper](http://hwjs.nvir.cn/article/doi/10.3969/j.issn.1001-8891.2007.07.010)]
+    - **On-orbit Infrared Imaging Simulation of Space Targets** - *Ying Wang, Jianming Huang, Xiangquan Wei*, Infrared and Laser Engineering, 2015. [[Paper](https://www.researching.cn/ArticlePdf/m00018/2015/44/9/2015-09-2593.pdf)]
+    - **Dynamic Simulation Platform for Infrared Moving Target Trajectory Reconstruction** - *Chengzhe Yao, Weilan Guo, Qian Chen*, Infrared and Laser Engineering, 2022. [[Paper](https://www.researching.cn/ArticlePdf/m00018/2022/51/2/20210901.pdf)]
+    - **Digital Imaging Simulation of Space-based Small Targets in Complex Scenes** - *Pengfei Li, Wei Xu, Yongjie Piao*, Journal of System Simulation, 2025. [[Paper](https://www.china-simulation.com/CN/10.16182/j.issn1004731x.joss.24-0900)]
+    - **Research on Noise Measurement Simulation for Infrared Imaging Systems** - *Qianjin Zou, Rui Dai, Xin Liu*, Infrared Technology, 2008. [[Paper](http://hwjs.nvir.cn/cn/article/pdf/preview/10.3969/j.issn.1001-8891.2008.06.010.pdf)]
+    - **Exploring Video Denoising in Thermal Infrared Imaging: Physics-Inspired Noise Generator, Dataset, and Model** - *Cai L, Dong X, Zhou K*，IEEE Transactions on Image Processing, 2024. [[Paper](https://ieeexplore.ieee.org/document/10507231)]
 
 ## Evaluation Metrics
 
